@@ -2,4 +2,10 @@
 title: "Portfolio Website"
 ---
 
-Let's do something!
+# Harmanpreet Singh
+
+### A try at making a portfolio Website
+
+  - Pointers
+  - Non Pointers
+  
