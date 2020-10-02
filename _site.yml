@@ -7,3 +7,14 @@ navbar:
       href: index.html
     - text: "About Me Different"
       href: about.html
+  right:
+    - icon: fa-github fa-lg
+      href: https://github.com/harmanavc
+    - icon: fa-twitter fa-lg
+      href: https://twitter.com/harmanavc
+    - icon: fa-linkedin fa-lg
+      href: https://www.linkedin.com/in/harmanavc
+output:
+  html_document:
+    theme: paper
+    css: 'styles.css'

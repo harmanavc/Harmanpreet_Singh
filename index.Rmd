@@ -1,11 +1,16 @@
 ---
-title: "Portfolio Website"
+title: "Harmanpreet Singh"
 ---
 
-# Harmanpreet Singh
 
 ### A try at making a portfolio Website
 
   - Pointers
-  - Non Pointers
+  - Good
+  
+Non Pointers  
+
+A  
+B  
+C
   
